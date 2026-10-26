@@ -2,7 +2,7 @@
 
 An interactive 3D website inspired by [Dog Studio](https://dogstudio.co/), built with React, Three.js and GSAP. An animated 3D dog stays fixed in the center of the screen and reacts to scrolling and to hovering over project titles, with smooth shader-based material transitions.
 
-**Live Demo:** _add your deployed link here_
+Live Demo: https://dog-studio-clone-pied.vercel.app
 
 ## Features
 
